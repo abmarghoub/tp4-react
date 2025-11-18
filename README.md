@@ -1,5 +1,25 @@
 #TP 4 : Projet de synthèse React – To-Do List interactive ou Blog simple
 
+---
+
+### Réalisé par
+
+**Abla MARGHOUB**
+
+### Encadré par
+
+**Pr. Mohamed LACHGAR**
+
+### Module
+
+**Développement et Design Web**
+
+### Établissement
+
+**École Normale Supérieure - Université Cadi Ayyad**
+
+---
+
 ## 1. Objectif du TP 
 - L'affichage d'une liste d'articles.  
 - La consultation détaillée d'un article.  
@@ -30,3 +50,5 @@
 https://github.com/user-attachments/assets/97d761e6-f70a-4154-aaac-75208f48c8cd
 
 ## 4. Déploiement
+
+https://resonant-sunshine-e5e9be.netlify.app/
