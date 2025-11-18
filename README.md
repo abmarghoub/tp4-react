@@ -1,4 +1,4 @@
-#TP 4 : Projet de synthèse React – To-Do List interactive ou Blog simple
+# TP 4 : Projet de synthèse React – To-Do List interactive ou Blog simple
 
 ---
 
